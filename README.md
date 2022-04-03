@@ -18,6 +18,14 @@ To use the shield, mount it on top of an Arduino board (e.g. the Uno). To upload
 
 Digital pin 7 is used as a handshake pin between the WiFi shield and the Arduino, and should not be used.
 
+# Applications
+This shield provide great capability to arduino board to communicate over WIFI.
+we can control the arduino pins over WIFI.
+by using this shield we can log or read data from the server.
+We can also perform MQTT protocol means we can use it any IOT device.
+
+
+
 # Network Settings
 
 The shield will connect to open networks, as well as those using WEP and WPA2 Personal encryption. The shield will not connect to networks using WPA2 Enterprise encryption.
@@ -88,6 +96,15 @@ You can download the circuit file from here.
 https://oshwlab.com/ctbully/wifi-shield-prototype
 
 # PCB 
+
+
+This PCB is good invetment for your projects, it can help you in you IOT projects.
+it can addon WIFI capability to your project. and its fun to make project also
+
+so guys if you like to order this WIFI shield PCB you so you can download all required files from the link given below..
+I'll suggest you to try [JLCPCB.com](https://jlcpcb.com/IAT)  because [JLCPCB.com](https://jlcpcb.com/IAT)   is the one stop solution for all your PCB needs
+
+
 
 ![image](https://user-images.githubusercontent.com/19898602/161432783-13b4103f-63a2-463b-b0b3-7177a8dd6d80.png)![image](https://user-images.githubusercontent.com/19898602/161432804-4e565071-fa81-45b2-ab9c-6f9fff49cf8c.png)
 
